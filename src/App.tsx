@@ -1,4 +1,6 @@
+import AboutMe from "./components/AboutMe";
 import Button from "./components/Button";
+import Skills from "./components/Skills";
 import TopBar from "./components/TopBar";
 
 export default function App() {
@@ -42,6 +44,10 @@ export default function App() {
           />
         </div>
       </main>
+
+      <AboutMe />
+
+      <Skills />
     </div>
   )
 }

@@ -13,7 +13,7 @@ export default function TopBar() {
           <span className="mr-2">
             <FaRegUser size={17} />
           </span>
-          Sobre mim
+          Sobre
         </div>
         <div className="flex items-center mr-14 text-sm cursor-pointer hover:text-portifolio-white transition">
           <span className="mr-2">

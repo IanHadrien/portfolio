@@ -60,6 +60,7 @@ export default {
 					black: '#151515',
 					white: '#FDFDFD',
 					grey: '#979797',
+					gray2: '#212121',
 				}
 			},
 			height: {
